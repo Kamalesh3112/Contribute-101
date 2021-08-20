@@ -1468,5 +1468,4 @@ const list = [{
 		twitter_username: '#',
 	}
 ];
-
 module.exports.list = list.reverse();
